@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 068d80b5005c78c4eacb84eb304a6a02
+timeCreated: 1470506556
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Train surfer buttons 1_0
+    21300002: Train surfer buttons 1_1
+    21300004: Train surfer buttons 1_2
+    21300006: Train surfer buttons 1_3
+    21300008: Train surfer buttons 1_4
+    21300010: Train surfer buttons 1_5
+    21300012: Train surfer buttons 1_6
+    21300014: Train surfer buttons 1_7
+    21300016: Train surfer buttons 1_8
+    21300018: Train surfer buttons 1_9
+    21300020: Train surfer buttons 1_10
+    21300022: Train surfer buttons 1_11
+    21300024: Train surfer buttons 1_12
+    21300026: Train surfer buttons 1_13
+    21300028: Train surfer buttons 1_14
+    21300030: Train surfer buttons 1_15
+    21300032: Train surfer buttons 1_16
+    21300034: Train surfer buttons 1_17
+    21300036: Train surfer buttons 1_18
+    21300038: Train surfer buttons 1_19
+    21300040: Train surfer buttons 1_20
+    21300042: Train surfer buttons 1_21
+    21300044: Train surfer buttons 1_22
+    21300046: Train surfer buttons 1_23
+    21300048: Train surfer buttons 1_24
+    21300050: Train surfer buttons 1_25
+    21300052: Train surfer buttons 1_26
+    21300054: Train surfer buttons 1_27
+    21300056: Train surfer buttons 1_28
+    21300058: Train surfer buttons 1_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 57
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 4
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Train surfer buttons 1_0
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3811
+        width: 851
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.74884, y: 24.866882}
+        - {x: -99.74884, y: -24.133118}
+        - {x: 99.25116, y: -24.133118}
+        - {x: 101.25116, y: -22.133118}
+        - {x: 101.25116, y: 23.866882}
+        - {x: 100.25116, y: 24.866882}
+    - name: Train surfer buttons 1_1
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3183
+        width: 1500
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172.81433, y: 40.822815}
+        - {x: -172.18567, y: 40.822815}
+        - {x: -176.18567, y: 36.822815}
+        - {x: -176.18567, y: -34.177185}
+        - {x: -170.18567, y: -39.177185}
+        - {x: 171.81433, y: -39.177185}
+        - {x: 173.81433, y: -38.177185}
+        - {x: 177.81433, y: -33.177185}
+        - {x: 177.81433, y: 34.822815}
+    - name: Train surfer buttons 1_2
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2708
+        width: 1500
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -176.18567, y: 40.724976}
+        - {x: -176.18567, y: -40.275024}
+        - {x: 177.81433, y: -40.275024}
+        - {x: 177.81433, y: 40.724976}
+    - name: Train surfer buttons 1_3
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2419
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.888489, y: 24.326538}
+        - {x: -23.888489, y: -21.673462}
+        - {x: -20.888489, y: -23.673462}
+        - {x: 20.111511, y: -23.673462}
+        - {x: 24.111511, y: -16.673462}
+        - {x: 24.111511, y: 24.326538}
+    - name: Train surfer buttons 1_4
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2040
+        width: 409
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.379517, y: 48.783234}
+        - {x: -48.379517, y: -48.216766}
+        - {x: 47.620483, y: -48.216766}
+        - {x: 48.620483, y: -47.216766}
+        - {x: 48.620483, y: 45.783234}
+        - {x: 47.620483, y: 48.783234}
+    - name: Train surfer buttons 1_5
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2044
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.787415, y: 49.223022}
+        - {x: -48.787415, y: 47.223022}
+        - {x: -48.787415, y: -43.776978}
+        - {x: -44.787415, y: -48.776978}
+        - {x: 47.212585, y: -48.776978}
+        - {x: 49.212585, y: -47.776978}
+        - {x: 49.212585, y: 49.223022}
+    - name: Train surfer buttons 1_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1850
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.276756, y: 39.644104}
+        - {x: -38.276756, y: 37.644104}
+        - {x: -38.276756, y: -38.355896}
+        - {x: 39.723244, y: -38.355896}
+        - {x: 39.723244, y: 39.644104}
+    - name: Train surfer buttons 1_7
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2051
+        width: 1090
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.12372, y: 44.867615}
+        - {x: -122.87628, y: 44.867615}
+        - {x: -127.87628, y: 43.867615}
+        - {x: -127.87628, y: -40.132385}
+        - {x: -121.87628, y: -43.132385}
+        - {x: 122.12372, y: -43.132385}
+        - {x: 124.12372, y: -42.132385}
+        - {x: 129.12372, y: -37.132385}
+        - {x: 129.12372, y: 39.867615}
+    - name: Train surfer buttons 1_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1444
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.75734, y: 37.257355}
+        - {x: -36.75734, y: -36.742645}
+        - {x: 38.24266, y: -36.742645}
+        - {x: 38.24266, y: 37.257355}
+    - name: Train surfer buttons 1_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 693
+        width: 1262
+        height: 1213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149.7143, y: 135.81534}
+        - {x: 147.7143, y: 140.81534}
+        - {x: 145.7143, y: 140.81534}
+        - {x: 142.7143, y: 143.81534}
+        - {x: -141.2857, y: 143.81534}
+        - {x: -147.2857, y: 139.81534}
+        - {x: -148.2857, y: 136.81534}
+        - {x: -148.2857, y: -134.18466}
+        - {x: -147.2857, y: -137.18466}
+        - {x: -144.2857, y: -140.18466}
+        - {x: -139.2857, y: -142.18466}
+        - {x: 141.7143, y: -142.18466}
+        - {x: 148.7143, y: -137.18466}
+        - {x: 149.7143, y: -132.18466}
+    - name: Train surfer buttons 1_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1595
+        width: 306
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.938965, y: 26.467407}
+        - {x: -71.938965, y: 18.467407}
+        - {x: -71.938965, y: -25.532593}
+        - {x: 73.061035, y: -25.532593}
+        - {x: 73.061035, y: 21.467407}
+        - {x: 66.061035, y: 26.467407}
+    - name: Train surfer buttons 1_11
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 1565
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.218262, y: 31.185425}
+        - {x: -30.218262, y: -24.814575}
+        - {x: -26.218262, y: -29.814575}
+        - {x: 30.781738, y: -29.814575}
+        - {x: 30.781738, y: 31.185425}
+    - name: Train surfer buttons 1_12
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 1567
+        width: 259
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.235413, y: 30.155304}
+        - {x: -30.235413, y: 24.155304}
+        - {x: -30.235413, y: -29.844696}
+        - {x: 31.764587, y: -29.844696}
+        - {x: 31.764587, y: 30.155304}
+    - name: Train surfer buttons 1_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1044
+        width: 319
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.841705, y: 38.280243}
+        - {x: -37.841705, y: -36.719757}
+        - {x: -35.841705, y: -37.719757}
+        - {x: 32.158295, y: -37.719757}
+        - {x: 38.158295, y: -30.719757}
+        - {x: 38.158295, y: 34.280243}
+        - {x: 32.158295, y: 38.280243}
+    - name: Train surfer buttons 1_14
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 959
+        width: 1735
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 204.25488, y: 39.810104}
+        - {x: 199.25488, y: 43.810104}
+        - {x: 196.25488, y: 44.810104}
+        - {x: -195.74512, y: 44.810104}
+        - {x: -202.74512, y: 39.810104}
+        - {x: -203.74512, y: 36.810104}
+        - {x: -203.74512, y: -36.189896}
+        - {x: -202.74512, y: -39.189896}
+        - {x: -198.74512, y: -43.189896}
+        - {x: -195.74512, y: -44.189896}
+        - {x: 197.25488, y: -44.189896}
+        - {x: 203.25488, y: -39.189896}
+        - {x: 204.25488, y: -39.189896}
+    - name: Train surfer buttons 1_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 699
+        width: 314
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.1441, y: 26.22499}
+        - {x: -37.1441, y: -25.77501}
+        - {x: 37.8559, y: -25.77501}
+        - {x: 37.8559, y: 26.22499}
+    - name: Train surfer buttons 1_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 672
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.323044, y: 24.88153}
+        - {x: -23.323044, y: -17.11847}
+        - {x: -19.323044, y: -23.11847}
+        - {x: 23.676956, y: -23.11847}
+        - {x: 24.676956, y: -19.11847}
+        - {x: 24.676956, y: 22.88153}
+        - {x: 23.676956, y: 24.88153}
+    - name: Train surfer buttons 1_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 267
+        width: 937
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.367096, y: 42.729717}
+        - {x: -110.367096, y: 39.729717}
+        - {x: -110.367096, y: -36.270283}
+        - {x: -105.367096, y: -41.270283}
+        - {x: 107.632904, y: -41.270283}
+        - {x: 110.632904, y: -39.270283}
+        - {x: 110.632904, y: 42.729717}
+    - name: Train surfer buttons 1_18
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 22
+        width: 1737
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205.08588, y: 74.16874}
+        - {x: 199.08588, y: 79.16874}
+        - {x: 195.08588, y: 80.16874}
+        - {x: -192.91412, y: 80.16874}
+        - {x: -196.91412, y: 79.16874}
+        - {x: -202.91412, y: 74.16874}
+        - {x: -203.91412, y: 71.16874}
+        - {x: -203.91412, y: -71.83126}
+        - {x: -201.91412, y: -74.83126}
+        - {x: -198.91412, y: -77.83126}
+        - {x: -197.91412, y: -77.83126}
+        - {x: -195.91412, y: -79.83126}
+        - {x: 199.08588, y: -79.83126}
+        - {x: 205.08588, y: -73.83126}
+    - name: Train surfer buttons 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 135
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 49.969887}
+        - {x: -8, y: 49.969887}
+        - {x: -14, y: 38.969887}
+        - {x: -16, y: 32.969887}
+        - {x: -16, y: 19.969887}
+        - {x: -13, y: 12.969887}
+        - {x: -32, y: -25.030113}
+        - {x: -32, y: -46.030113}
+        - {x: -31, y: -49.030113}
+        - {x: 0, y: -49.030113}
+        - {x: 13, y: -36.030113}
+        - {x: 32, y: 3.9698868}
+        - {x: 32, y: 43.969887}
+    - name: Train surfer buttons 1_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 18
+        width: 498
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.342957, y: 22.22897}
+        - {x: -57.342957, y: 16.22897}
+        - {x: -58.342957, y: 7.2289696}
+        - {x: -58.342957, y: -21.77103}
+        - {x: 59.657043, y: -21.77103}
+        - {x: 59.657043, y: 17.22897}
+        - {x: 38.657043, y: 22.22897}
+    - name: Train surfer buttons 1_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 18
+        width: 712
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.648575, y: 18.22897}
+        - {x: -83.648575, y: 14.22897}
+        - {x: -82.648575, y: 13.22897}
+        - {x: -83.648575, y: -15.77103}
+        - {x: -83.648575, y: -17.77103}
+        - {x: 84.351425, y: -17.77103}
+        - {x: 84.351425, y: 17.22897}
+        - {x: 82.351425, y: 18.22897}
+    - name: Train surfer buttons 1_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 18
+        width: 155
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.321045, y: 18.22897}
+        - {x: -18.321045, y: -17.77103}
+        - {x: 15.678955, y: -17.77103}
+        - {x: 19.678955, y: -14.77103}
+        - {x: 19.678955, y: 13.22897}
+        - {x: 12.678955, y: 18.22897}
+    - name: Train surfer buttons 1_23
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.361603, y: 26.5}
+        - {x: -26.361603, y: 25.5}
+        - {x: -26.361603, y: 18.5}
+        - {x: 17.638397, y: -26.5}
+        - {x: 26.638397, y: -26.5}
+        - {x: 26.638397, y: -20.5}
+        - {x: -19.361603, y: 26.5}
+    - name: Train surfer buttons 1_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2337
+        width: 391
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.99975, y: 44.56122}
+        - {x: -45.99975, y: 42.56122}
+        - {x: -45.99975, y: -40.43878}
+        - {x: -36.99975, y: -45.43878}
+        - {x: 39.00025, y: -45.43878}
+        - {x: 47.00025, y: -40.43878}
+        - {x: 47.00025, y: 44.56122}
+    - name: Train surfer buttons 1_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3359
+        width: 691
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.349182, y: 77.67273}
+        - {x: -79.34918, y: 56.67273}
+        - {x: -79.34918, y: -68.32727}
+        - {x: -78.34918, y: -75.32727}
+        - {x: 79.65082, y: -75.32727}
+        - {x: 79.65082, y: 24.67273}
+        - {x: 78.65082, y: 27.67273}
+        - {x: 33.650818, y: 77.67273}
+    - name: Train surfer buttons 1_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 3353
+        width: 730
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.4790955, y: 70.26306}
+        - {x: -81.520905, y: 70.26306}
+        - {x: -83.520905, y: 69.26306}
+        - {x: -83.520905, y: 35.26306}
+        - {x: -71.520905, y: -74.73694}
+        - {x: 85.479095, y: -74.73694}
+        - {x: 85.479095, y: 58.26306}
+        - {x: 84.479095, y: 67.26306}
+    - name: Train surfer buttons 1_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2950
+        width: 312
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.39721, y: 37.081177}
+        - {x: -36.39721, y: 33.081177}
+        - {x: -36.39721, y: -36.918823}
+        - {x: 26.60279, y: -36.918823}
+        - {x: 37.60279, y: -35.918823}
+        - {x: 37.60279, y: 32.081177}
+        - {x: 28.60279, y: 37.081177}
+    - name: Train surfer buttons 1_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2778
+        width: 423
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.762817, y: 51.17102}
+        - {x: -49.762817, y: 45.17102}
+        - {x: -49.762817, y: -44.82898}
+        - {x: -47.762817, y: -49.82898}
+        - {x: 45.237183, y: -49.82898}
+        - {x: 51.237183, y: -48.82898}
+        - {x: 51.237183, y: 43.17102}
+        - {x: 44.237183, y: 51.17102}
+    - name: Train surfer buttons 1_29
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2766
+        width: 442
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.063965, y: 51.351685}
+        - {x: -51.936035, y: 51.351685}
+        - {x: -51.936035, y: -48.648315}
+        - {x: 48.063965, y: -48.648315}
+        - {x: 53.063965, y: -41.648315}
+        - {x: 53.063965, y: 47.351685}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

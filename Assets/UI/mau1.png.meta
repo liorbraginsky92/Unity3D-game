@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 07bdfb8d4b98a474683ee505e5470eac
+timeCreated: 1473161139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mau1_0
+    21300002: mau1_1
+    21300004: mau1_2
+    21300006: mau1_3
+    21300008: mau1_4
+    21300010: mau1_5
+    21300012: mau1_15
+    21300014: mau1_16
+    21300016: mau1_17
+    21300018: mau1_18
+    21300020: mau1_19
+    21300022: mau1_20
+    21300024: mau1_21
+    21300026: mau1_22
+    21300028: mau1_23
+    21300030: mau1_31
+    21300032: mau1_32
+    21300034: mau1_33
+    21300036: mau1_6
+    21300038: mau1_7
+    21300040: mau1_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: 12
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: mau1_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.37252298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 24
+        width: 185
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 122
+        width: 118
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 76}
+        - {x: -59, y: -75}
+        - {x: 56, y: -75}
+        - {x: 59, y: -72}
+        - {x: 59, y: 76}
+    outline: []
+  spritePackingTag: UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

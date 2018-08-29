@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway-surf.CSharp.Plugins", "Subway-surf.CSharp.Plugins.csproj", "{1BE7CDC9-57E3-7B59-8D83-563DB9D95FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway-surf.CSharp", "Subway-surf.CSharp.csproj", "{DC15B4D5-4295-8CF4-2514-19191DF1B38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway-surf.CSharp.Editor", "Subway-surf.CSharp.Editor.csproj", "{E8629C16-C3C0-FBAD-E2B4-DA5E1FEF1A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE7CDC9-57E3-7B59-8D83-563DB9D95FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE7CDC9-57E3-7B59-8D83-563DB9D95FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE7CDC9-57E3-7B59-8D83-563DB9D95FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE7CDC9-57E3-7B59-8D83-563DB9D95FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC15B4D5-4295-8CF4-2514-19191DF1B38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC15B4D5-4295-8CF4-2514-19191DF1B38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC15B4D5-4295-8CF4-2514-19191DF1B38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC15B4D5-4295-8CF4-2514-19191DF1B38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8629C16-C3C0-FBAD-E2B4-DA5E1FEF1A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8629C16-C3C0-FBAD-E2B4-DA5E1FEF1A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8629C16-C3C0-FBAD-E2B4-DA5E1FEF1A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8629C16-C3C0-FBAD-E2B4-DA5E1FEF1A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
